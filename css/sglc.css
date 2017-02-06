@@ -1,0 +1,258 @@
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    background: #37a;
+}
+a:visited {
+    color: #669;
+    text-decoration: none;
+}
+
+
+
+.banner-bg
+{
+	    background-image: url(../img/1322.jpg);
+    height: 962px;
+        background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ttnwn
+{
+	background-image: url(../img/1388.jpg);
+	height: 962px;
+        background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.book-info {
+    position: absolute;
+    top: 548px;
+    left: 50%;
+    margin-left: -480px;
+    width: 960px;
+}
+.book-info .info-left
+{ 
+    width: 480px;
+    float: left;
+    margin-right: 88px;
+    color: #fff;
+}
+ .info-left p {
+    font-size: 20px;
+    line-height: 28px;
+    font-family: Songti SC;
+    margin-bottom: 8px;
+    font-weight: 300;
+}
+.info-right
+{
+	    width: 392px;
+    display: table;
+     float: right;
+    margin-top: -330px;
+}
+.book-info .info-right>div {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.info-right img
+{
+	 margin-right: 30px;
+	    
+}
+.star {
+    width: 88px;
+    height: 17px;
+    display: inline-block;
+    background-position: 0 0;
+    background-size: 100%;
+    position: relative;
+    top: 2px;
+}
+.comment span {
+    color: hsla(0,0%,100%,.8);
+    font-size: 14px;
+}   
+
+.star4 {
+   
+    background: url(../img/small_star_bg.png);
+     background-position: 0 -18px;
+         background-size: 100%;
+}
+.book-desc h3
+{
+	
+    font-size: 31px;
+    line-height: 48px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 8px;
+
+}
+
+.book-desc
+{
+	width: 190px;
+    text-align: left;
+}
+ .book-public
+ {
+ 	color: hsla(0,0%,100%,.8);
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 8px;
+ }   
+
+.book-price {
+    font-size: 14px;
+    line-height: 42px;
+    color: #ffd581;
+}
+.book-price span {
+    font-size: 30px;
+    font-family: Songti SC;
+    margin-right: 4px;
+    font-weight: 600;
+}
+.book-price i {
+    position: relative;
+    bottom: 2px;
+}
+.info-right .buy{
+    display: inline-block;
+    width: 190px;
+    height: 50px;
+    background-color: #e76648;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 22px;
+    margin: auto;
+}
+
+.book-content
+{
+	margin: 30px 355px;
+}
+.book-content p
+{
+	font-size: 16px;
+    color: #494949;
+    line-height: 26px;
+    margin: 0 0 20px;
+}
+.book-content h1
+{
+	
+    font-size: 24px;
+    line-height: 33px;
+    color: #494949;
+    font-weight: 500;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(231,102,72,.3);
+    margin: 0 0 20px;
+
+}
+.photo-content img
+{
+	width: 809px;
+}
+.section
+{
+	    margin: 25px 0;
+}
+.recommend-wrap {
+        width: 100%;
+    background-color: #504a49;
+    margin: auto;
+    padding: 0 30px;
+    position: relative;
+    height: 423px;
+}
+
+.recommend-wrap h4 {
+    font-size: 24px;
+    color: #fff;
+    padding: 60px 16px;
+    text-align: center;
+}
+.rc-item div
+{
+	
+    display: table-cell;
+    vertical-align: middle;
+
+}
+.rc-item div h5 {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+    padding-bottom: 4px;
+    line-height: 30px;
+}
+
+.rc-item div span {
+    display: inline-block;
+    padding-bottom: 8px;
+    color: #ccc;
+    font-size: 14px;
+}
+.rc-item div p {
+    color: #ccc;
+    font-size: 14px;
+    line-height: 20px;
+}
+ .rc-item div img {
+    width: 130px;
+    padding-right: 30px;
+}
+.rc-item {
+    width: 510px;
+    float: left;
+}
+.rl-item {
+        padding-bottom: 192px;
+    border-bottom: 1px solid hsla(0,0%,100%,.3);
+    width: 1034px;
+    margin-left: 248px;
+}
+.footer div
+{
+	display: inline-block;
+}
+.ft-left img
+{
+	    width: 15px;
+}
+.footer a
+{
+	color: #ccc;
+}
+.ft-left
+{
+	float: left;
+}
+.ft-right
+{
+	float: right;
+}
+.footer
+{
+	    margin: 40px 228px;
+}
+.rt-p
+{
+	    width: 600px;
+    display: inline-block;
+}
+.rt-img
+{
+	    margin-top: -103px;
+    margin-left: 32px;
+}

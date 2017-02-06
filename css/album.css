@@ -1,0 +1,186 @@
+.top-nav
+{
+	background: #333;
+    font-size: 12px;
+    height: 31px;
+    width: 100%;
+	opacity: 0.8;
+}
+.top-nav li
+{
+	display: inline-block;
+	    margin-right: 15px;
+}
+.top-nav-left
+{
+	
+	    float: left;
+    margin-top: 9px;
+    margin-left: 15px;
+}
+.top-nav-right
+{
+	float: right;
+	margin-top: 9px;
+    margin-right: 15px;
+}
+.top-nav a
+{
+	color:#d5d5d5 ;
+}
+
+.top-nav a:hover
+{
+	color: #FFFFFF;
+}
+
+
+.ft-right
+{
+	display: inline-block;
+    margin-left: 100px;
+    padding-bottom: 10px;
+    color: gray;
+}
+.footer
+{
+	position: absolute;
+    border-top: 1px solid #eee;
+    bottom: -1400px;
+       padding: 18px 259px;
+    background: #edf4ed;
+}
+.footer a
+{
+	color: #333;
+}
+body
+{
+	position: relative;
+}
+
+.header
+{
+	background: #edf4ed;
+    padding: 25px 259px;
+}
+.search
+{
+	    display: inline-block;
+    width: 317px;
+    background: #fff;
+    height: 32px;
+    border-radius: 3px;
+	margin-left: 48px;
+    vertical-align: bottom;
+}
+.search i
+{
+	    display: inline-block;
+    width: 38px;
+    height: 32px;
+    background: url(../img/bn_srh_1.png) no-repeat 13px 7px;
+}
+.search input
+{
+	border-radius: 2px;
+    background: #fff;
+    width: 266px;
+    border: none;
+    height: 32px;
+    padding-left: 5px;
+    vertical-align: top;
+}
+
+.h-list,.h-search,.h-icon,.h-list li
+{
+	display: inline-block;
+}
+.h-list a
+{
+	color: #072;
+}
+.h-icon
+{
+	    vertical-align: sub;
+}
+.h-search
+{
+	    vertical-align: bottom;
+}
+.h-list
+{
+	    margin-left: 20px;
+}
+.main
+{
+	    padding: 35px 259px;
+}
+.header ul ,.header li,.at-desc ul,.at-desc li
+{
+	display: inline-block;
+}
+.content-left
+{
+	float: left;
+	    width: 590px;
+}
+.content-right
+{
+	float: right;
+}
+a
+{
+	color: #37a;
+	font-size: 12px;
+}
+a:hover
+{
+	background: #37a;
+	color: #fff;
+}
+.at-desc
+{
+	display: inline-block;
+}
+.pcbox-title span
+{
+	font-size: 13px;
+	color: grey;
+}
+.pcbox-title a
+{
+	float: right;
+}
+.pcbox-p
+{
+	    display: inline-block;
+    width: 170px;
+    height: 200px;
+    vertical-align: bottom;
+    margin-right: 20px;
+}
+.pcbox-title
+{
+	margin: 30px 0px;
+	    border-bottom: 1px solid #ddd;
+}
+.cotent-bottom p
+{
+	color: grey;
+	margin-top: 10px;
+}
+.cmt-desc
+{
+	display: inline-block;
+	    vertical-align: middle;
+}
+.cmt-img
+{
+	display: inline-block;
+	    vertical-align: middle;
+}
+.comment-list li
+{
+	margin-bottom: 10px;
+}

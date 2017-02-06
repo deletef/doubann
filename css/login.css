@@ -1,0 +1,146 @@
+
+a:visited {
+    color: #669;
+    text-decoration: none;
+}
+
+
+
+.main
+{
+	    width: 950px;
+    margin: 0 auto;
+}
+.left-content
+{
+	float: left;
+}
+.right-content
+{
+	float: right;
+	margin-right: 157px;
+}
+.header span
+{
+	display: inline-block;
+    text-indent: -9999em;
+    width: 231px;
+    height: 30px;
+	background: transparent url(../img/下载.png) no-repeat;
+}
+.header
+{
+	margin-top: 30px;
+    padding: 40px 285px;
+}
+/*a:hover {
+    color: #fff;
+    text-decoration: none;
+    background: #37a;
+}*/
+.error
+{	font-size: 12px;
+	color: #fe2617;
+	margin: 35px;
+}
+.tip
+{
+	margin-left: 171px;
+    margin-bottom: 5px;
+}
+.bar
+{
+	display: inline-block;
+    border: 1px solid gainsboro;
+    height: 8px;
+}
+.main span
+{
+	font-size: 12px;
+	color: gray;
+}
+.main a
+{
+	font-size: 12px;
+}
+.account
+{
+	width: 200px;
+    padding: 5px;
+    height: 18px;
+    font-size: 14px;
+    vertical-align: middle;
+    border-radius: 3px;
+    border: 1px solid #c9c9c9;
+        margin: 10px;
+}
+.submit
+{
+	cursor: pointer;
+    color: #ffffff;
+    background: #3fa156;
+    border: 1px solid #528641;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 6px 26px;
+    border-radius: 3px;
+        margin-left: 57px;
+}
+.befores
+{
+	margin: 5px;
+	    margin: 20px;
+    margin-left: 53px;
+}
+.left-btom
+{
+	    padding: 5px 0;
+    width: 200px;
+    margin: 20px 0 0 75px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+.ft-right
+{
+	display: inline-block;
+    margin-left: 100px;
+    padding-bottom: 10px;
+    color: gray;
+}
+.footer
+{
+	position: absolute;
+    top: 600px;
+    border-top: 1px solid #eee;
+    padding-top: 5px;
+}
+.r-w1
+{
+	    display: inline-block;
+    margin: 15px 57px;
+}
+.yzm
+{
+	    margin: 10px 0px;
+    margin-left: 70px;
+}
+#yz
+{
+	    cursor: pointer;
+    background: #fff;
+    border: 1px solid #c9c9c9;
+    font-size: 13px;
+    padding: 6px 15px;
+    border-radius: 3px;
+    
+    vertical-align: middle;
+}
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    background: #37a;
+}
+.header a:hover
+{
+	background:auto;
+}
